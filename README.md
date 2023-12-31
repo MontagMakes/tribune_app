@@ -1,6 +1,16 @@
-The Express Tribune News App
+# The Express Tribune News App
 
-Overview
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/958b92f0-995f-4d07-9794-cd61f7e9495f" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/5c597166-467b-4ab4-a57a-68bf3c9a6eb7" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/a38df1d0-b1d3-4808-90b4-7ae5e8136f32" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/dcf3b6ba-da38-43d4-8c4c-2b99f1b4e82d" alt="Image Alt Text" width="200" height="400">
+
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/68cced20-b9c8-44bd-abc3-c0d44e28c756" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/342ebf04-e8ea-4000-80d2-7b0eaa3d0384" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/29814ac6-cc65-4e6e-b2e6-445b0c9a0142" alt="Image Alt Text" width="200" height="400">
+<img src="https://github.com/MontagMakes/tribune_app/assets/103876121/6264ca1c-899f-4086-a4a8-eb06e1f07ce4" alt="Image Alt Text" width="200" height="400">
+
+# Overview
 
 Welcome to The Express Tribune News App, your go-to source for breaking news, analysis, and in-depth coverage from The Express Tribune. Stay informed on the latest happenings with our user-friendly Android app, featuring a range of features for an enhanced news-reading experience.
 Features
@@ -17,7 +27,7 @@ Sharing
 
 Stay socially connected by sharing interesting articles, breaking news, and insightful analyses with your friends and followers across various platforms.
 
-How to Use
+# How to Use
 
     Download and Install:
         Download the app from the Google Play Store.
