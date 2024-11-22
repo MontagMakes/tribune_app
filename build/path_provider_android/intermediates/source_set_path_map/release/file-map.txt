@@ -1,12 +1,28 @@
-io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-0 C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
-io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-1 C:\Users\Montag\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
-io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-2 C:\Users\Montag\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
-io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-3 C:\Users\Montag\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
-io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\Montag\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\main\res
-io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\Montag\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\release\res
-io.flutter.plugins.pathprovider.path_provider_android-pngs-6 E:\code\flutter projects\tribune\build\path_provider_android\generated\res\pngs\release
-io.flutter.plugins.pathprovider.path_provider_android-resValues-7 E:\code\flutter projects\tribune\build\path_provider_android\generated\res\resValues\release
-io.flutter.plugins.pathprovider.path_provider_android-rs-8 E:\code\flutter projects\tribune\build\path_provider_android\generated\res\rs\release
-io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 E:\code\flutter projects\tribune\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 E:\code\flutter projects\tribune\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 E:\code\flutter projects\tribune\build\path_provider_android\intermediates\merged_res\release
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.2.0-0 C:\Users\Montag\.gradle\caches\transforms-3\00de5e391f58534924aec9d7eb1932c1\transformed\jetified-window-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-livedata-2.7.0-1 C:\Users\Montag\.gradle\caches\transforms-3\0698606bf2e307421058e699b0ccc962\transformed\lifecycle-livedata-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-runtime-2.7.0-2 C:\Users\Montag\.gradle\caches\transforms-3\179d9d74a18b05f7795ad10efa91ff5c\transformed\lifecycle-runtime-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-livedata-core-2.7.0-3 C:\Users\Montag\.gradle\caches\transforms-3\28867ff9744f9ff82a4efb7ca10a5a31\transformed\lifecycle-livedata-core-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-core-1.0.0-4 C:\Users\Montag\.gradle\caches\transforms-3\2b5c6d2990d9b026e1e5029869defe52\transformed\jetified-core-1.0.0\res
+io.flutter.plugins.pathprovider.path_provider_android-core-runtime-2.2.0-5 C:\Users\Montag\.gradle\caches\transforms-3\3250f6bcd9ea927251fa9f71edd9fa63\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-viewmodel-2.7.0-6 C:\Users\Montag\.gradle\caches\transforms-3\3d856021d9cb537c2d5768e33d49b0af\transformed\lifecycle-viewmodel-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-core-ktx-1.13.1-7 C:\Users\Montag\.gradle\caches\transforms-3\3e2de7eaa9af98ddaaf444e7978bf697\transformed\jetified-core-ktx-1.13.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-activity-1.8.1-8 C:\Users\Montag\.gradle\caches\transforms-3\43c7f750a1e6b4972baf797bff3d79a1\transformed\jetified-activity-1.8.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-savedstate-1.2.1-9 C:\Users\Montag\.gradle\caches\transforms-3\44aad5c39fcc926b2a0e540ded8172cc\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.2.0-10 C:\Users\Montag\.gradle\caches\transforms-3\57bf8f7e6bd54fb80774fd80e04fffd7\transformed\jetified-window-java-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-tracing-1.2.0-11 C:\Users\Montag\.gradle\caches\transforms-3\7ee0204a3f0e60f9be5d6ec1d81a5e34\transformed\jetified-tracing-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-process-2.7.0-12 C:\Users\Montag\.gradle\caches\transforms-3\929e1d1d32f11871cf60390a354d3cee\transformed\jetified-lifecycle-process-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-livedata-core-ktx-2.7.0-13 C:\Users\Montag\.gradle\caches\transforms-3\a6fa36012ef62552ad054c1e8fed6004\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-viewmodel-savedstate-2.7.0-14 C:\Users\Montag\.gradle\caches\transforms-3\b0c5adf632220c4a2f4c4466e680d7b2\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-startup-runtime-1.1.1-15 C:\Users\Montag\.gradle\caches\transforms-3\d1c0ef65a865a92ce8778b838ad43948\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.pathprovider.path_provider_android-fragment-1.7.1-16 C:\Users\Montag\.gradle\caches\transforms-3\d51cce04d4fb1661ea61a3d3d69d4ea4\transformed\fragment-1.7.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.4.0-17 C:\Users\Montag\.gradle\caches\transforms-3\d5d6612736d2bece4bd6aeed84bac22f\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-profileinstaller-1.3.1-18 C:\Users\Montag\.gradle\caches\transforms-3\e6e6f7295530f441e13b372b1cea5a11\transformed\jetified-profileinstaller-1.3.1\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.13.1-19 C:\Users\Montag\.gradle\caches\transforms-3\f9594cdc892b2bd2966ae71c343dc057\transformed\core-1.13.1\res
+io.flutter.plugins.pathprovider.path_provider_android-main-20 C:\Users\Montag\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.12\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-21 C:\Users\Montag\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.12\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-22 E:\code\flutter projects\tribune_app\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-23 E:\code\flutter projects\tribune_app\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-24 E:\code\flutter projects\tribune_app\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-25 E:\code\flutter projects\tribune_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-26 E:\code\flutter projects\tribune_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-27 E:\code\flutter projects\tribune_app\build\path_provider_android\intermediates\merged_res\release

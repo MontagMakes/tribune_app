@@ -1,10 +1,10 @@
-#Sat Dec 09 22:51:29 PKT 2023
-base.0=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.4=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.5=E\:\\code\\flutter projects\\tribune2\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+#Fri Nov 22 21:54:11 PKT 2024
+base.0=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.4=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.5=E\:\\code\\flutter projects\\tribune_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex

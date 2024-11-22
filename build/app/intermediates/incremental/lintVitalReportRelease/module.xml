@@ -1,14 +1,14 @@
 <lint-module
     format="1"
-    dir="E:\code\flutter projects\tribune\android\app"
+    dir="E:\code\flutter projects\tribune_app\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="E:\code\flutter projects\tribune\build\app"
-    bootClassPath="C:\Users\Montag\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\Montag\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    buildFolder="E:\code\flutter projects\tribune_app\build\app"
+    bootClassPath="C:\Users\Montag\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Montag\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
-    compileTarget="android-33">
+    compileTarget="android-34">
   <lintOptions
       abortOnError="true"
       absolutePaths="true"

@@ -1,13 +1,13 @@
 <variant
     name="release"
     package="com.example.dawn"
-    minSdkVersion="19"
-    targetSdkVersion="33"
+    minSdkVersion="21"
+    targetSdkVersion="35"
     shrinking="true"
-    mergedManifest="E:\code\flutter projects\tribune\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
-    proguardFiles="E:\code\flutter projects\tribune\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;C:\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
-    partialResultsDir="E:\code\flutter projects\tribune\build\app\intermediates\lint_vital_partial_results\release\out"
-    desugaredMethodsFiles="C:\Users\Montag\.gradle\caches\transforms-3\bd65921de16db1d78bd37241e498ab28\transformed\D8BackportedDesugaredMethods.txt">
+    mergedManifest="E:\code\flutter projects\tribune_app\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="E:\code\flutter projects\tribune_app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;C:\dev\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="E:\code\flutter projects\tribune_app\build\app\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\Montag\.gradle\caches\transforms-3\89ffc5d9b7eef6a6291e066a94d649eb\transformed\D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -32,9 +32,9 @@
         value="android.app.Application" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="E:\code\flutter projects\tribune\build\app\intermediates\javac\release\classes;E:\code\flutter projects\tribune\build\app\tmp\kotlin-classes\release;E:\code\flutter projects\tribune\build\app\kotlinToolingMetadata;E:\code\flutter projects\tribune\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      classOutputs="E:\code\flutter projects\tribune_app\build\app\intermediates\javac\release\classes;E:\code\flutter projects\tribune_app\build\app\tmp\kotlin-classes\release;E:\code\flutter projects\tribune_app\build\app\kotlinToolingMetadata;E:\code\flutter projects\tribune_app\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
       applicationId="com.montagmakes.tribune"
-      generatedSourceFolders="E:\code\flutter projects\tribune\build\app\generated\ap_generated_sources\release\out;E:\code\flutter projects\tribune\build\app\generated\aidl_source_output_dir\release\out;E:\code\flutter projects\tribune\build\app\generated\source\buildConfig\release;E:\code\flutter projects\tribune\build\app\generated\renderscript_source_output_dir\release\out"
-      generatedResourceFolders="E:\code\flutter projects\tribune\build\app\generated\res\rs\release;E:\code\flutter projects\tribune\build\app\generated\res\resValues\release">
+      generatedSourceFolders="E:\code\flutter projects\tribune_app\build\app\generated\ap_generated_sources\release\out;E:\code\flutter projects\tribune_app\build\app\generated\aidl_source_output_dir\release\out;E:\code\flutter projects\tribune_app\build\app\generated\source\buildConfig\release;E:\code\flutter projects\tribune_app\build\app\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="E:\code\flutter projects\tribune_app\build\app\generated\res\rs\release;E:\code\flutter projects\tribune_app\build\app\generated\res\resValues\release">
   </mainArtifact>
 </variant>

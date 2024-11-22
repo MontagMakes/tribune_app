@@ -1,18 +1,34 @@
-com.example.dawn.app-jetified-window-1.0.0-beta04-0 C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
-com.example.dawn.app-jetified-core-ktx-1.10.1-1 C:\Users\Montag\.gradle\caches\transforms-3\719af8deb3ed6174d87dbb6013e12a44\transformed\jetified-core-ktx-1.10.1\res
-com.example.dawn.app-jetified-annotation-experimental-1.3.0-2 C:\Users\Montag\.gradle\caches\transforms-3\937d6edc8055f6701a18eeac1a67afe6\transformed\jetified-annotation-experimental-1.3.0\res
-com.example.dawn.app-lifecycle-runtime-2.3.1-3 C:\Users\Montag\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
-com.example.dawn.app-jetified-window-java-1.0.0-beta04-4 C:\Users\Montag\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
-com.example.dawn.app-core-1.10.1-5 C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\res
-com.example.dawn.app-main-6 E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\res
-com.example.dawn.app-release-7 E:\code\flutter projects\tribune2\tribune_app\android\app\src\release\res
-com.example.dawn.app-pngs-8 E:\code\flutter projects\tribune2\tribune_app\build\app\generated\res\pngs\release
-com.example.dawn.app-resValues-9 E:\code\flutter projects\tribune2\tribune_app\build\app\generated\res\resValues\release
-com.example.dawn.app-rs-10 E:\code\flutter projects\tribune2\tribune_app\build\app\generated\res\rs\release
-com.example.dawn.app-mergeReleaseResources-11 E:\code\flutter projects\tribune2\tribune_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.example.dawn.app-mergeReleaseResources-12 E:\code\flutter projects\tribune2\tribune_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.example.dawn.app-merged_res-13 E:\code\flutter projects\tribune2\tribune_app\build\app\intermediates\merged_res\release
-com.example.dawn.app-packaged_res-14 E:\code\flutter projects\tribune2\tribune_app\build\flutter_native_splash\intermediates\packaged_res\release
-com.example.dawn.app-packaged_res-15 E:\code\flutter projects\tribune2\tribune_app\build\path_provider_android\intermediates\packaged_res\release
-com.example.dawn.app-packaged_res-16 E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\packaged_res\release
-com.example.dawn.app-packaged_res-17 E:\code\flutter projects\tribune2\tribune_app\build\shared_preferences_android\intermediates\packaged_res\release
+com.example.dawn.app-lifecycle-livedata-2.7.0-0 C:\Users\Montag\.gradle\caches\transforms-3\0313b4099446464f98d0df0606c58c95\transformed\lifecycle-livedata-2.7.0\res
+com.example.dawn.app-jetified-core-1.0.0-1 C:\Users\Montag\.gradle\caches\transforms-3\052a56087b23de77791a629d260284c0\transformed\jetified-core-1.0.0\res
+com.example.dawn.app-jetified-profileinstaller-1.3.1-2 C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\res
+com.example.dawn.app-lifecycle-viewmodel-2.7.0-3 C:\Users\Montag\.gradle\caches\transforms-3\2e94595ca22e3aadcdebdc547820608c\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.dawn.app-jetified-datastore-1.0.0-4 C:\Users\Montag\.gradle\caches\transforms-3\3314cb25a5330f11bf2a55b7a9a310ab\transformed\jetified-datastore-1.0.0\res
+com.example.dawn.app-jetified-lifecycle-livedata-core-ktx-2.7.0-5 C:\Users\Montag\.gradle\caches\transforms-3\455c428e62a6dd75da98c7152f7af462\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.dawn.app-jetified-activity-1.8.1-6 C:\Users\Montag\.gradle\caches\transforms-3\4b07bb875192e8c29c9b76677237c5c8\transformed\jetified-activity-1.8.1\res
+com.example.dawn.app-jetified-annotation-experimental-1.4.0-7 C:\Users\Montag\.gradle\caches\transforms-3\4d10c72f31024081b56fc5037069e011\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.dawn.app-jetified-startup-runtime-1.1.1-8 C:\Users\Montag\.gradle\caches\transforms-3\4ee1d1c3643bd699aea17aa2adbcb7ee\transformed\jetified-startup-runtime-1.1.1\res
+com.example.dawn.app-jetified-window-java-1.2.0-9 C:\Users\Montag\.gradle\caches\transforms-3\5292c4072ce6d2ab49b0e25db445cdfe\transformed\jetified-window-java-1.2.0\res
+com.example.dawn.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-10 C:\Users\Montag\.gradle\caches\transforms-3\6e7c2231d2ac9b957ecfe9d432e59ed2\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.dawn.app-core-runtime-2.2.0-11 C:\Users\Montag\.gradle\caches\transforms-3\73778f1c206428361b6eebbb974be913\transformed\core-runtime-2.2.0\res
+com.example.dawn.app-jetified-core-ktx-1.13.1-12 C:\Users\Montag\.gradle\caches\transforms-3\740c93e8e1043856a6b7cb15a7eaa9f0\transformed\jetified-core-ktx-1.13.1\res
+com.example.dawn.app-lifecycle-runtime-2.7.0-13 C:\Users\Montag\.gradle\caches\transforms-3\98474e5913354eaede53aaa879a4dd8b\transformed\lifecycle-runtime-2.7.0\res
+com.example.dawn.app-jetified-savedstate-1.2.1-14 C:\Users\Montag\.gradle\caches\transforms-3\aadceac8ee0316c01a9163bad1a5e0ed\transformed\jetified-savedstate-1.2.1\res
+com.example.dawn.app-fragment-1.7.1-15 C:\Users\Montag\.gradle\caches\transforms-3\c683cde5b1f5377825fe27da54e1b718\transformed\fragment-1.7.1\res
+com.example.dawn.app-jetified-datastore-preferences-1.0.0-16 C:\Users\Montag\.gradle\caches\transforms-3\cb38a9efa74695bcecf2cdc4810f475f\transformed\jetified-datastore-preferences-1.0.0\res
+com.example.dawn.app-lifecycle-livedata-core-2.7.0-17 C:\Users\Montag\.gradle\caches\transforms-3\ce9e6112a0f9c5113844bb49506e7a06\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.dawn.app-jetified-window-1.2.0-18 C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\res
+com.example.dawn.app-jetified-lifecycle-process-2.7.0-19 C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.dawn.app-jetified-tracing-1.2.0-20 C:\Users\Montag\.gradle\caches\transforms-3\e67a2d3f5080e81a9ca4ada76d6846fb\transformed\jetified-tracing-1.2.0\res
+com.example.dawn.app-core-1.13.1-21 C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\res
+com.example.dawn.app-main-22 E:\code\flutter projects\tribune_app\android\app\src\main\res
+com.example.dawn.app-release-23 E:\code\flutter projects\tribune_app\android\app\src\release\res
+com.example.dawn.app-pngs-24 E:\code\flutter projects\tribune_app\build\app\generated\res\pngs\release
+com.example.dawn.app-resValues-25 E:\code\flutter projects\tribune_app\build\app\generated\res\resValues\release
+com.example.dawn.app-rs-26 E:\code\flutter projects\tribune_app\build\app\generated\res\rs\release
+com.example.dawn.app-mergeReleaseResources-27 E:\code\flutter projects\tribune_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.dawn.app-mergeReleaseResources-28 E:\code\flutter projects\tribune_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.dawn.app-merged_res-29 E:\code\flutter projects\tribune_app\build\app\intermediates\merged_res\release
+com.example.dawn.app-packaged_res-30 E:\code\flutter projects\tribune_app\build\flutter_native_splash\intermediates\packaged_res\release
+com.example.dawn.app-packaged_res-31 E:\code\flutter projects\tribune_app\build\path_provider_android\intermediates\packaged_res\release
+com.example.dawn.app-packaged_res-32 E:\code\flutter projects\tribune_app\build\share_plus\intermediates\packaged_res\release
+com.example.dawn.app-packaged_res-33 E:\code\flutter projects\tribune_app\build\shared_preferences_android\intermediates\packaged_res\release

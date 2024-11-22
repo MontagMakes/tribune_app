@@ -1,62 +1,62 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.montagmakes.tribune"
-4    android:versionCode="6"
-5    android:versionName="1.0.5" >
+4    android:versionCode="7"
+5    android:versionName="1.0.6" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="33" />
-9-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml
+8-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="35" />
+9-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:2:1-62
-11-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:2:18-60
+11-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:2:1-62
+11-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:2:18-60
 12
 13    <meta-data
-13-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:35:5-37:32
+13-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:35:5-37:32
 14        android:name="io.flutter.embedding.android.EnableImpeller"
-14-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:36:9-67
+14-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:36:9-67
 15        android:value="true" />
-15-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:37:9-29
+15-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:37:9-29
 16
 17    <permission
-17-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+17-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 18        android:name="com.montagmakes.tribune.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-18-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+18-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 19        android:protectionLevel="signature" />
-19-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+19-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 20
 21    <uses-permission android:name="com.montagmakes.tribune.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-21-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
-21-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+21-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 22
 23    <application
-24        android:name="io.flutter.app.FlutterMultiDexApplication"
-24-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:5:9-42
+24        android:name="android.app.Application"
+24-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:5:9-42
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-25-->[androidx.core:core:1.10.1] C:\Users\Montag\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+25-->[androidx.core:core:1.13.1] C:\Users\Montag\.gradle\caches\transforms-3\fac84cd5ecf1ec88a8c98571217c9350\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 26        android:icon="@mipmap/launcher_icon"
-26-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:6:9-45
+26-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:6:9-45
 27        android:label="Express Tribune" >
-27-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:4:9-40
+27-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:4:9-40
 28        <activity
-28-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:7:9-28:20
+28-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:7:9-28:20
 29            android:name="com.example.dawn.MainActivity"
-29-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:8:13-41
+29-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:8:13-41
 30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-30-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:12:13-163
+30-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:12:13-163
 31            android:exported="true"
-31-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:9:13-36
+31-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:9:13-36
 32            android:hardwareAccelerated="true"
-32-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:13:13-47
+32-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:13:13-47
 33            android:launchMode="singleTop"
-33-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:10:13-43
+33-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:10:13-43
 34            android:theme="@style/LaunchTheme"
-34-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:11:13-47
+34-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:11:13-47
 35            android:windowSoftInputMode="adjustResize" >
-35-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:14:13-55
+35-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:14:13-55
 36
 37            <!--
 38                 Specifies an Android theme to apply to this Activity as soon as
@@ -65,21 +65,21 @@
 41                 to determine the Window background behind the Flutter UI.
 42            -->
 43            <meta-data
-43-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:19:13-23:17
+43-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:19:13-23:17
 44                android:name="io.flutter.embedding.android.NormalTheme"
-44-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:21:15-70
+44-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:21:15-70
 45                android:resource="@style/NormalTheme" />
-45-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:22:15-52
+45-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:22:15-52
 46
 47            <intent-filter>
-47-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:24:13-27:29
+47-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:24:13-27:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:25:17-68
-48-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:25:25-66
+48-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:25:17-68
+48-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:25:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:26:17-76
-50-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:26:27-74
+50-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:26:17-76
+50-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:26:27-74
 51            </intent-filter>
 52        </activity>
 53        <!--
@@ -87,62 +87,122 @@
 55             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 56        -->
 57        <meta-data
-57-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:31:9-33:33
+57-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:31:9-33:33
 58            android:name="flutterEmbedding"
-58-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:32:13-44
+58-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:32:13-44
 59            android:value="2" />
-59-->E:\code\flutter projects\tribune2\tribune_app\android\app\src\main\AndroidManifest.xml:33:13-30
+59-->E:\code\flutter projects\tribune_app\android\app\src\main\AndroidManifest.xml:33:13-30
 60        <!--
 61           Declares a provider which allows us to store files to share in
 62           '.../caches/share_plus' and grant the receiving action access
 63        -->
 64        <provider
-64-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
+64-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
 65            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-65-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
+65-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
 66            android:authorities="com.montagmakes.tribune.flutter.share_provider"
-66-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
+66-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
 67            android:exported="false"
-67-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+67-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 68            android:grantUriPermissions="true" >
-68-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
+68-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
 69            <meta-data
-69-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:68
+69-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:68
 70                android:name="android.support.FILE_PROVIDER_PATHS"
-70-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
+70-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
 71                android:resource="@xml/flutter_share_file_paths" />
-71-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-65
+71-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-65
 72        </provider>
 73        <!--
 74           This manifest declared broadcast receiver allows us to use an explicit
 75           Intent when creating a PendingItent to be informed of the user's choice
 76        -->
 77        <receiver
-77-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
+77-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
 78            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-78-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
+78-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
 79            android:exported="false" >
-79-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
+79-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
 80            <intent-filter>
-80-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
+80-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
 81                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-81-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
-81-->[:share_plus] E:\code\flutter projects\tribune2\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
+81-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
+81-->[:share_plus] E:\code\flutter projects\tribune_app\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
 82            </intent-filter>
 83        </receiver>
 84
 85        <uses-library
-85-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+85-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
 86            android:name="androidx.window.extensions"
-86-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+86-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
 87            android:required="false" />
-87-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+87-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
 88        <uses-library
-88-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+88-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
 89            android:name="androidx.window.sidecar"
-89-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+89-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
 90            android:required="false" />
-90-->[androidx.window:window:1.0.0-beta04] C:\Users\Montag\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
-91    </application>
-92
-93</manifest>
+90-->[androidx.window:window:1.2.0] C:\Users\Montag\.gradle\caches\transforms-3\d47b1192960df52846144d82ac9e1d6f\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+91
+92        <provider
+92-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+93            android:name="androidx.startup.InitializationProvider"
+93-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+94            android:authorities="com.montagmakes.tribune.androidx-startup"
+94-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+95            android:exported="false" >
+95-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+96            <meta-data
+96-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+97-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+98                android:value="androidx.startup" />
+98-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Montag\.gradle\caches\transforms-3\d674cd90e13def17f77b3f8010d35e09\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+99            <meta-data
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+100                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+101                android:value="androidx.startup" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+102        </provider>
+103
+104        <receiver
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+105            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+106            android:directBootAware="false"
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+107            android:enabled="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+108            android:exported="true"
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+109            android:permission="android.permission.DUMP" >
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+111                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+114                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+117                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+118            </intent-filter>
+119            <intent-filter>
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+120                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Montag\.gradle\caches\transforms-3\166e5df34c1c015ef6ddeae137513a3f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+121            </intent-filter>
+122        </receiver>
+123    </application>
+124
+125</manifest>

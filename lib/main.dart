@@ -4,12 +4,10 @@ import 'package:dawn/screens/screen_home_page/screen_home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  //saving Theme mode to 
+  //saving Theme mode to  
   final savedThemeMode = await AdaptiveTheme.getThemeMode();
 
   //Force portrait mode

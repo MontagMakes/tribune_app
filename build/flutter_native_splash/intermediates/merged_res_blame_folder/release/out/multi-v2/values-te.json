@@ -1,31 +1,31 @@
 {
     "logs": [
         {
-            "outputFile": "net.jonhanson.flutter_native_splash-merged_res-10:/values-te/values-te.xml",
+            "outputFile": "net.jonhanson.flutter_native_splash-mergeReleaseResources-24:/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-te\\values-te.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,367,468,574,681,805",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "152,260,362,463,569,676,800,901"
                     }
                 }
             ]
         },
         {
-            "outputFile": "net.jonhanson.flutter_native_splash-mergeReleaseResources-8:/values-te/values-te.xml",
+            "outputFile": "net.jonhanson.flutter_native_splash-merged_res-26:/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-te\\values-te.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,367,468,574,681,805",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "152,260,362,463,569,676,800,901"
                     }
                 }
             ]

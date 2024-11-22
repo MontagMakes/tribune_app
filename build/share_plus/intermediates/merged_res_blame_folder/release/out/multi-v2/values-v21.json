@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "dev.fluttercommunity.plus.share.share_plus-merged_res-12:/values-v21/values-v21.xml",
+            "outputFile": "dev.fluttercommunity.plus.share.share_plus-merged_res-26:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\c4988ff80110f75080a936fc6f044848\\transformed\\core-1.10.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-10:/values-v21/values-v21.xml",
+            "outputFile": "dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-24:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\c4988ff80110f75080a936fc6f044848\\transformed\\core-1.10.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

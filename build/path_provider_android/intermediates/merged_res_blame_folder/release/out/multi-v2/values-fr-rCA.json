@@ -1,31 +1,31 @@
 {
     "logs": [
         {
-            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-8:/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-merged_res-26:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,778",
+                        "endColumns": "97,101,98,101,103,103,113,100",
+                        "endOffsets": "148,250,349,451,555,659,773,874"
                     }
                 }
             ]
         },
         {
-            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-merged_res-10:/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-24:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\Montag\\.gradle\\caches\\transforms-3\\f9594cdc892b2bd2966ae71c343dc057\\transformed\\core-1.13.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,778",
+                        "endColumns": "97,101,98,101,103,103,113,100",
+                        "endOffsets": "148,250,349,451,555,659,773,874"
                     }
                 }
             ]

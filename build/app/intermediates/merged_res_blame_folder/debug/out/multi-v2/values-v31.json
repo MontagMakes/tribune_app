@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.dawn.app-mergeDebugResources-11:/values-v31/values-v31.xml",
+            "outputFile": "com.example.dawn.app-mergeDebugResources-27:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "E:\\code\\flutter projects\\tribune2\\tribune_app\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "E:\\code\\flutter projects\\tribune_app\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,17",
                         "startColumns": "4,4",
-                        "startOffsets": "173,1036",
+                        "startOffsets": "176,1053",
                         "endLines": "10,19",
                         "endColumns": "12,12",
-                        "endOffsets": "685,1200"
+                        "endOffsets": "695,1219"
                     },
                     "to": {
                         "startLines": "2,10",
